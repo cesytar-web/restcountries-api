@@ -11,13 +11,16 @@ body {
 
 .center {
   text-align: center;
+  font-size: 1.2em;
 }
 
 .card {
   width: 200px;
   box-shadow: 15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
   border-radius: 16px;
-  margin: 20px;
+  margin: 10px;
+  padding: 15px;
+  text-align: center;
 }
 
 #flag-image {
